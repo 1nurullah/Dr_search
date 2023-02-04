@@ -16,6 +16,11 @@ Directory scan on the website
   cd Dr_search
 ```
 
+<h3>İnstall requirements</h3>
+
+```bash
+  pip3 install -r requirements.txt
+```
 
 <h3>Open with python3</h3>
 
