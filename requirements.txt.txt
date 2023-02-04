@@ -1,4 +1,0 @@
-requests
-optparse 
-sys
-pyfiglet
