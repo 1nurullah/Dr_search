@@ -13,7 +13,7 @@ Directory scan on the website
 <h3>Go to the project directory</h3>
 
 ```bash
-  cd Dr_search.py
+  cd Dr_search
 ```
 
 
